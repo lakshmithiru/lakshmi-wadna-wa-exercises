@@ -38,6 +38,7 @@ safe-outputs:
       - bug
       - feature
       - question
+      - needs-info
       # TODO 1: Add the labels needed for incomplete issues, duplicates,
       # invalid submissions, spam, priorities p0 through p2, and the three
       # suggested-team routing options.
